@@ -28,3 +28,4 @@ $ RECYCLE.BIN /
 * .lnk
 
 # Конец https://www.toptal.com/developers/gitignore/api/windows
+print ('hello, world') 
